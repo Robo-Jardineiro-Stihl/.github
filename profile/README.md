@@ -8,7 +8,6 @@
 
 [Boas Práticas de Commit](#boas-práticas-de-commit)
 
-[Boas Práticas de Programação](#boas-práticas-de-programação)
 
 ---
 
@@ -203,18 +202,6 @@ Seguir essas boas práticas ajudará a manter um histórico de *commits* limpo, 
 
 ---
 
-# Boas Práticas de Programação
-
-Em anexo há um template exemplificando boas práticas de programação.
-[Acesse o arquivo Python aqui](./template.py)
-
-Além disso, o código pode ainda ser desenvolvido utilizando regions, no Visual Studio Code, sua estrutura é no inicio ter "\# region nome_da_regiao" e ao final "\# endregion".
-Outra boa pratica é manter os códigos devidamente comentados e se possível em inglês, visto que a empresa está sempre em expansão, podendo eventualmente atingir outras nacionalidades.
-Essas boas práticas vão te ajudar a criar um código mais organizado e fácil de manter, permitindo que você e a equipe trabalhem com mais eficiência.
-
-[Voltar ao Índice](#indice)
-
----
 
 
 
